@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
+@import "tailwindcss";
+@layer base {
+  body {
+    background: #000;
+  color: white;
+  }
+}
+@theme {
+  --font-kausan: "Kaushan Script", sans-serif;
+  --color-newgray : #242424;
+ 
+}
